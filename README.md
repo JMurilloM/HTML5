@@ -1,5 +1,3 @@
 WebSites
 ========
-repository  for share code HTML
-
-pd: I'm novice 
+I try  write a good code Javascript, HTML y CSS with the
