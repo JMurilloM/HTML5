@@ -7,11 +7,11 @@ Same examples 'js' was writen
 Some examples  of "js "were written with little HTML
  
 *See html files:
-$ open file.html
+	$ open file.html
 *will open default browser
 
 *See js files:
-$ node flle.js
+	$ node flle.js
 
 
 
