@@ -1,3 +1,17 @@
 WebSites
 ========
-I try  write a good code Javascript, HTML y CSS with the
+Examples HTML CSS and JS
+
+Same examples 'js' was writen 
+
+Some examples  of "js "were written with little HTML
+ 
+See html files:
+$ open file.html
+*will open default browser
+
+See js files:
+$ node flle.js
+
+
+
