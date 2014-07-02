@@ -7,4 +7,8 @@ var variable=function(){
    console.log("This is i*=2 syntax");}
 
 };
+var welcome = "Welcomedocument with examples variables!";
+var goodbye = "So, goodbye !";
+
+console.log(welcome+"\n"+goodbye);
 variable();
