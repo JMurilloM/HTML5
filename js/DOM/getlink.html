@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <title>GET LINK</title>
+  <script type="text/javascript" charset="utf-8">
+  
+    function getLink(){
+    var l=document.getElementById("link");
+    document.getElementById("result").innerHTML=l.href;
+    }
+  </script>
+</head>
+
+<body>
+  <p><a href="http://byronwd.com" >My WebSite</a></p>
+  <p id='result'><a href="#" id='link'></a></p>
+  <p><input type="button" onclick="getLink()" value="" ></p>
+</body>
+</html>
